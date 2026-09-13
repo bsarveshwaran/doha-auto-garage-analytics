@@ -348,6 +348,6 @@ The business, customers, vehicles, technicians, work orders, financial transacti
 
 ## Author
 
-**Sarveshwaran Balakrishnan**  
-Senior Software Quality Analyst | Data Analytics & Business Intelligence Professional  
-Doha, Qatar
+© 2026 Sarveshwaran Balakrishnan
+
+**Software Professional | Software Quality Engineering → Data Analytics & BI**
